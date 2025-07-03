@@ -1,0 +1,1 @@
+export function Input(props) { return <input className='bg-gray-700 text-white p-2 rounded' {...props} />; }

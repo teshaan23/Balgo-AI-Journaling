@@ -1,0 +1,1 @@
+export default function TradingJournalDashboard() { return <div className='text-white'>Welcome to BALGO AI Forex Journal!</div>; }
